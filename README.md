@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlienVisitor
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in learning and growing
 - 🌱 I’m currently learning databases
 - 💞️ I’m looking to collaborate on any project
